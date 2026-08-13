@@ -12,7 +12,8 @@ body{
     align-items: center;
     min-height: 100vh;
     /* background-color: #212121; */
-    background-image: url("image/22e2bbd85b1be03db922f51eef052ce2.jpg")
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
 }
 .container{
     position: relative;
@@ -22,7 +23,6 @@ body{
     height: 300px;
     border-radius: 50%;
     background-color: rgba(255, 255, 255, .1);
-    /* background-image:url("image/Gemini_Generated_Image_kmdoy7kmdoy7kmdo.png"); */
     border: 2px solid rgba(255, 255, 255, .25);
     box-shadow: 0px 0px 30px rgba(0, 0, 0, .9);
     display: flex;
